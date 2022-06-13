@@ -21,7 +21,7 @@ defmodule SpeechlyProtox.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:protox, "~> 1.6", only: :dev}
+      {:protox, "~> 1.6"}
     ]
   end
 end
