@@ -10,7 +10,6 @@ The package can be installed by adding `speechly_protox` to your list of depende
 def deps do
   [
     {:speechly_protox, github: "superlistapp/speechly_protox"}
-
   ]
 end
 ```
